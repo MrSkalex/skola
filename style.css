@@ -1,0 +1,218 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #D18700;
+}
+
+h1 {
+  text-align: center;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  font-family:
+}
+
+p1 {
+  font-family: Arial, Helvetica, sans-serif margin-left: 50px;
+  margin-right: 100px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 100px;
+  height: auto;
+}
+
+div {
+  margin-left: 55px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h2 {
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.credit {
+  position: fixed;
+  bottom: 15px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+table {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 30px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+
+
+.diva1 {
+  margin-right: 215px;
+  margin-top: 70px;
+  margin-left: 0px;
+}
+
+.nba {
+  margin-right: 0vh;
+  margin-top: 25px;
+  margin-left: 0px;
+}
+
+.goat {
+  text-align: center;
+}
+
+.nba1 {
+  margin-right: 70vh;
+  margin-top: 75px;
+  weight: 150%;
+  border-color: black;
+}
+
+.red {
+  color: red;
+  background-color: black;
+}
+
+.yellow {
+  color: yellow;
+  background-color: black;
+}
+
+.kareem {
+  color: orange;
+  background-color: black;
+}
+
+.magic {
+  color: #00d9ff;
+  background-color: black;
+}
+
+.bryant {
+  color: silver;
+  background-color: black;
+}
+
+.lol {
+  margin-left: 30px;
+}
+
+.nba2 {
+  margin-right: 60vh;
+  margin-top: 75px;
+  weight: 100%;
+  border-color: black;
+}
+
+.curry {
+  color: #0055ff;
+  background-color: black;
+}
+
+.wilt {
+  color: #be04be;
+  background-color: black;
+}
+
+.nicola {
+  color: white;
+  background-color: black;
+}
+
+.nba3 {
+  margin-right: 60vh;
+  margin-top: 30px;
+  weight: 100%;
+  border-color: black;
+}
+
+.karl {
+  color: #5248db;
+  background-color: black;
+}
+
+.dirk {
+  color: #00ccff;
+  background-color: black;
+}
+
+.carmelo {
+  color: #ff7300;
+  background-color: black;
+}
+
+.durant {
+  color: black;
+  background-color: white;
+}
+
+a {
+  text-decoration: underline;
+  color: #ff8800;
+  background-color: #000000;
+  padding: 5px 0px;
+  border-radius: 10px;
+  transition: background-color 0.5s;
+}
+
+a:hover {
+  background-color: #ff8800;
+  color: #000000;
+}
+
+.kupit {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.kupittab {
+  margin: 0 auto;
+  width: 50%;
+}
+
+form {
+  width: 300px;
+  margin: 0 auto;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"] {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #000000;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+odo {
+  background-color: #ff6600;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
+.bna {
+  margin: 0 auto;
+  margin-top: 20px;
+  width: 50%;
+}
